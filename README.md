@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/isha-noor-396bb432a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="ishanoor828@gmil.com">
+  <a href="mailto:ishanor828@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
@@ -29,8 +29,9 @@ I'm at that exciting stage where everything clicks together — frontend, backen
 - 🔭 Working towards building projects that actually solve real problems
 - 💬 Ask me about **Python, JavaScript, or anything AI-related**
 - 🤝 Open to **internships, collaborations, and cool project ideas**
-- ⚡ Fun facts:  Dark mode is not optional — it's a lifestyle 🌙
--                I think in if-else statements in real life too
+- ⚡ Dark mode is not optional — it's a lifestyle 🌙
+- ⚡ I think in `if-else` statements in real life too
+- ⚡ I debug better with coffee ☕
 
 ---
 
@@ -75,9 +76,10 @@ I'm at that exciting stage where everything clicks together — frontend, backen
 
 ## 🚀 What I'm Currently Building
 
-- 🤖 An **ML project** that [describe what it does — e.g., "classifies images using CNN"]
-- 🌐 A **full-stack web app** with React + Python backend
-- 📚 Strengthening my **DSA** skills daily on LeetCode
+- 🤖 A **Sentiment Analyzer** — an ML model that reads text and tells you if it's positive or negative using Python & scikit-learn
+- 🛒 **ShopEase** — a full-stack e-commerce app with product listings, cart & checkout built with React + Python
+- 🌦️ A **Weather Dashboard** that fetches real-time forecasts using a public API with clean HTML/CSS/JS
+- 📚 Sharpening my **DSA** skills consistently on LeetCode — one problem at a time!
 
 > *"The best way to learn is to build. So I just keep building."*
 
@@ -112,4 +114,4 @@ I'm always happy to chat — whether it's about a project idea, an internship op
   <img src="https://komarev.com/ghpvc/?username=Isha123-maker&color=blue&style=flat-square&label=Profile+Views" />
 </p>
 
-<p align="center"><em>Thanks for stopping by! ⭐ Feel free to explore my repos and drop a message. I would love to read.
+<p align="center"><em>Thanks for stopping by! ⭐ Feel free to explore my repos and drop a message for me I would love to read.
