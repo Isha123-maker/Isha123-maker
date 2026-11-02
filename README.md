@@ -20,7 +20,7 @@
 
 ## 🙋‍♀️ A Little About Me
 
-I'm a 6th semester Software Engineering student who genuinely *loves* this field — not because I have to, but because I can't stop building things even when no one's asking me to. 😄
+I'm a 7th semester Software Engineering student who genuinely *loves* this field — not because I have to, but because I can't stop building things even when no one's asking me to. 😄
 
 I'm at that exciting stage where everything clicks together — frontend, backend, and AI — and I'm hungry to turn that curiosity into real-world impact.
 
