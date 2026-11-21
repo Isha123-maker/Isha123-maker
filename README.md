@@ -11,9 +11,9 @@ Software Engineering student at Virtual University of Pakistan (7th semester). I
 
 | Project | What it does | Links |
 |---|---|---|
-| **VU Assistant** | Unofficial student-built chatbot that answers VU admissions, programs and exam questions, with sources | [Live](https://vu-chatbot-ten.vercel.app) · [Demo](PASTE_VU_VIDEO_LINK) · [Code](https://github.com/Isha123-maker/vu-chatbot) |
-| **PKR Budget Tracker** | Tracks everyday spending in rupees, with AI spending insights | [Live](https://budget-tracker-dev-9aac.vercel.app) · [Demo](PASTE_BUDGET_VIDEO_LINK) · [Code](https://github.com/Isha123-maker/budget-tracker) |
-| **Mail Brief** (gmail-morning-agent) | Reads today's emails, flags urgent ones and writes a morning briefing. Runs locally | [Demo](PASTE_GMAIL_VIDEO_LINK) · [Code](https://github.com/Isha123-maker/gmail-morning-agent) |
+| **VU Assistant** | Unofficial student-built chatbot that answers VU admissions, programs and exam questions, with sources | [Live](https://vu-chatbot-ten.vercel.app) · [Demo](https://youtu.be/06jbSpUZDxQ) · [Code](https://github.com/Isha123-maker/vu-chatbot) |
+| **PKR Budget Tracker** | Tracks everyday spending in rupees, with AI spending insights | [Live](https://budget-tracker-dev-9aac.vercel.app) · [Demo](https://youtu.be/JeTYRmWmlME) · [Code](https://github.com/Isha123-maker/budget-tracker) |
+| **Mail Brief** (gmail-morning-agent) | Reads today's emails, flags urgent ones and writes a morning briefing. Runs locally | [Demo](https://youtu.be/KgnQDjKsNr4) · [Code](https://github.com/Isha123-maker/gmail-morning-agent) |
 
 ## Tools I use
 Python · TypeScript · Next.js · PostgreSQL · Prisma · Clerk · Playwright · Streamlit · Gemini API · Upstash Redis · Vercel · Git & GitHub
