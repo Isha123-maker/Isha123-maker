@@ -1,117 +1,28 @@
-<h1 align="center">Hey there! I'm Isha 👋</h1>
+# Hi, I'm Isha Noor 👋
 
-<p align="center">
-  <em>Software Engineering Student • Full-Stack Developer • AI/ML Enthusiast</em>
-</p>
+Software Engineering student at Virtual University of Pakistan (7th semester). I build full-stack web apps and AI-powered tools, and I'm open to freelance projects and remote junior or internship roles.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isha-noor-396bb432a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ishanor828@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+## What I build
+- **AI chatbots** that answer from your own content and show their sources (RAG)
+- **Full-stack web apps** with authentication, databases and tests
+- **Small AI tools** that automate everyday tasks (Python + Gemini)
 
----
+## Projects
 
-## 🙋‍♀️ A Little About Me
-
-I'm a 7th semester Software Engineering student who genuinely *loves* this field — not because I have to, but because I can't stop building things even when no one's asking me to. 😄
-
-I'm at that exciting stage where everything clicks together — frontend, backend, and AI — and I'm hungry to turn that curiosity into real-world impact.
-
-- 🎓 Studying **Software Engineering** (6th Semester)
-- 🌱 Currently leveling up in **Machine Learning** and **React**
-- 🔭 Working towards building projects that actually solve real problems
-- 💬 Ask me about **Python, JavaScript, or anything AI-related**
-- 🤝 Open to **internships, collaborations, and cool project ideas**
-- ⚡ Dark mode is not optional — it's a lifestyle 🌙
-- ⚡ I think in `if-else` statements in real life too
-- ⚡ I debug better with coffee ☕
-
----
-
-## 🛠️ My Tech Toolbox
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**AI / Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isha123-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isha123-maker&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha123-maker&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-## 🚀 What I'm Currently Building
-
-- 🤖 A **Sentiment Analyzer** — an ML model that reads text and tells you if it's positive or negative using Python & scikit-learn
-- 🛒 **ShopEase** — a full-stack e-commerce app with product listings, cart & checkout built with React + Python
-- 🌦️ A **Weather Dashboard** that fetches real-time forecasts using a public API with clean HTML/CSS/JS
-- 📚 Sharpening my **DSA** skills consistently on LeetCode — one problem at a time!
-
-> *"The best way to learn is to build. So I just keep building."*
-
----
-
-## 📌 Featured Projects
-
-> ⭐ *Pin your best repos on GitHub and list them here!*
-
-| Project | Description | Tech Used |
+| Project | What it does | Links |
 |---|---|---|
-| [🛒 ShopEase](https://github.com/Isha123-maker/shopease) | A full-stack e-commerce web app with product listing, cart, and checkout functionality | React, Python, CSS |
-| [🧠 Sentiment Analyzer](https://github.com/Isha123-maker/sentiment-analyzer) | ML model that detects positive/negative sentiment from user reviews using NLP | Python, scikit-learn, TensorFlow |
-| [🌦️ Weather Dashboard](https://github.com/Isha123-maker/weather-dashboard) | A clean weather app that shows real-time forecasts using a public API | HTML, CSS, JavaScript |
-| [📝 Task Manager App](https://github.com/Isha123-maker/task-manager) | A productivity app to create, organize, and track daily tasks with a modern UI | React, CSS |
+| **VU Assistant** | Unofficial student-built chatbot that answers VU admissions, programs and exam questions, with sources | [Live](https://vu-chatbot-ten.vercel.app) · [Demo](PASTE_VU_VIDEO_LINK) · [Code](https://github.com/Isha123-maker/vu-chatbot) |
+| **PKR Budget Tracker** | Tracks everyday spending in rupees, with AI spending insights | [Live](https://budget-tracker-dev-9aac.vercel.app) · [Demo](PASTE_BUDGET_VIDEO_LINK) · [Code](https://github.com/Isha123-maker/budget-tracker) |
+| **Mail Brief** (gmail-morning-agent) | Reads today's emails, flags urgent ones and writes a morning briefing. Runs locally | [Demo](PASTE_GMAIL_VIDEO_LINK) · [Code](https://github.com/Isha123-maker/gmail-morning-agent) |
 
----
+## Tools I use
+Python · TypeScript · Next.js · PostgreSQL · Prisma · Clerk · Playwright · Streamlit · Gemini API · Upstash Redis · Vercel · Git & GitHub
 
-## 📬 Let's Connect!
+## Right now
+- Working on my final year project
+- Preparing my first open-source contributions
 
-I'm always happy to chat — whether it's about a project idea, an internship opportunity, or just talking tech. Don't be a stranger!
+## Get in touch
+[LinkedIn](https://www.linkedin.com/in/isha-noor-396bb432a/) · [Email](mailto:ishanor828@gmail.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isha-noor-396bb432a/">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isha123-maker&color=blue&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center"><em>Thanks for stopping by! ⭐ Feel free to explore my repos and drop a message for me I would love to read.
+I like building things even when nobody asked me to. If you have a project idea, drop me a message. I'd love to hear it. ☕
