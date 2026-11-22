@@ -23,6 +23,6 @@ Python · TypeScript · Next.js · PostgreSQL · Prisma · Clerk · Playwright �
 - Preparing my first open-source contributions
 
 ## Get in touch
-[LinkedIn](https://www.linkedin.com/in/isha-noor-396bb432a/) · [Email](mailto:ishanor828@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/isha-noor-dev/) · [Email](mailto:ishanor828@gmail.com)
 
 I like building things even when nobody asked me to. If you have a project idea, drop me a message. I'd love to hear it. ☕
